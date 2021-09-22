@@ -1,2 +1,2 @@
 # terraform
-Terraform proyects
+Terraform projects
